@@ -4,6 +4,9 @@
 
 For Natural Language Processing (NLP) and Large Language Models (LLMs), the exploration and implementation of innovative methodologies like Combined Topic Modeling (CTM), fine-tuning Llama 2 for sentiment analysis, constructing multimodal RAG pipelines, sentence sentiment classification with DistilBERT, sentence-to-sentence translation, and the design of RAG using Llama-2, Langchain, and Chromadb represent a significant leap towards harnessing the vast potential of text data. Each of these subsections delves into specific aspects of NLP-LLM, from uncovering latent topics within large text corpora and refining models for nuanced sentiment analysis to facilitating seamless sentence translation and augmenting LLMs with retrieval mechanisms for enhanced query responses. These projects not only demonstrate the practical applications of cutting-edge NLP techniques but also highlight the synergistic integration of various tools and frameworks to solve complex linguistic challenges, pushing the boundaries of what can be achieved in the field of natural language understanding and generation.
 
+Working with LLMs and NLP on large unstructured datasets is a comprehensive process that involves cleaning, preparing, and transforming text data into a structured format that models can understand and learn from. Leveraging the power of LLMs can significantly enhance the ability to derive insights, predictions, and generate text, pushing the boundaries of what's possible in the field of NLP.
+
+Here I have a summary of each method.
 
 
 ## 1. Introduction to Combined Topic Modeling (CTM) with Kaggle Dataset
